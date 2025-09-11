@@ -5,7 +5,7 @@ I'm Filippo De Simoni, I am passionate about Mathematics and Computer Science, i
 
 ## Academic
 
-Always loved math, after scientific high school I am studying at [Bachelor of Science in Computer Science Engineering](https://www.supsi.ch/en/bachelor-computer-science-engineering) in Lugano.
+Always loved math, I am studying at [Bachelor of Science in Computer Science Engineering](https://www.supsi.ch/en/bachelor-computer-science-engineering) in Lugano.
 
 <picture>
   <source
