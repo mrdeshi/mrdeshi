@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-portfolio: desi.ch
+[portfolio](deshi.ch)
 
 ## Bio
 
