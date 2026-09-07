@@ -8,7 +8,7 @@ a glimpse into my Mathematics & Computer Science
 
 I'm Filippo De Simoni, I am passionate about Mathematics and Computer Science, in particular Algorithms: from linear algebra in computer graphics to discrete math, optimization, and operations research.
 
-BSc student in [Computer Science Engineering](https://www.supsi.ch/en/bachelor-computer-science-engineering) at SUPSI, Lugano.
+MSE student in Computer Science, after a BSc in [Computer Science Engineering](https://www.supsi.ch/en/bachelor-computer-science-engineering) at SUPSI, Lugano. Looking for a job.
 
 `Algorithms` `Optimization` `Computer Graphics` `Machine Learning` `Discrete Math` `Systems Programming`
 
@@ -66,6 +66,7 @@ Semantic work is a downcast, a composition, so I write it by hand. My thesis pap
 
 ## Education
 
-- **2022 - now** · BSc Computer Science Engineering · SUPSI, Lugano · GPA 5.25 / 6.0, 168 ECTS
+- **2026 - now** · MSE Computer Science
+- **2022 - 2026** · BSc Computer Science Engineering · SUPSI, Lugano · GPA 5.25 / 6.0, 168 ECTS
 - **2017 - 2022** · Scientific High School Diploma · Liceo Scientifico A. Pacinotti, La Spezia · Final grade 100/100
 - Introduction to Metric Spaces · MIT OpenCourseWare, online · Self-directed study of topology and real analysis
