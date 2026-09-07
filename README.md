@@ -38,28 +38,26 @@ Semantic work is a downcast, a composition, so I write it by hand. My thesis pap
 
 ## Projects
 
-Closed source projects are described, not published.
-
-| project | year | | |
-| --- | --- | --- | --- |
-| Software Representations & Optimization | 2026 | Bachelor Thesis, High Performance Computing. Automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. | closed source |
-| Machine Scheduling: Configuration LP | 2025 - 2026 | Semester Project. Approximation algorithms for machine scheduling, with a PhD candidate and a postdoc. | closed source |
-| Higgs Boson Signal Detection | | An end-to-end machine learning pipeline for Higgs boson signal detection. | closed source |
-| 3D Graphics Engine | | A 3D graphics engine in C++, used to build a playable 3D Tower of Hanoi game. | closed source |
-| Graph Dynamic Programming | | Optimization on graph structures and complexity analysis. | closed source |
-| C Threads Library | | A threads library in pure C, with creation, synchronization and scheduling. | closed source |
-| 4 points on Sphere | | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. | closed source |
-| Start-Up Outzone | 2023 - now | Co-Founder & Backend Developer. Backend development for the Outzone start-up. | [outzone.app](https://outzone.app/) |
-| Smart Regression | | | [notebook](https://colab.research.google.com/drive/1GaXfOB1p5SLRWkStMmyjbu1ko2Y_wmMQ?usp=sharing) |
-| Arch linux Rice | | | [dotfiles](https://github.com/mrdeshi/dotfiles) |
-| Recurrence Integration method | | | [repo](https://github.com/mrdeshi/recurrence-integration) |
-| Collatz Conjecture | | | [repo](https://github.com/mrdeshi/collatz-conjecture) |
-| Tree Access Optimization | | | [repo](https://github.com/mrdeshi/tree-access-optimization) |
-| Digital Scriptorium | | | [repo](https://github.com/mrdeshi/digital-scriptorium) |
-| NLP school project | | | [repo](https://github.com/mrdeshi/nlp-bbc) |
-| Pac-Man | | | closed source |
-| Arkanoid | | | closed source |
-| Fibonacci Sphere | | The 3D word cloud on [deshi.ch](https://deshi.ch). | closed source |
+| project | year | |
+| --- | --- | --- |
+| Software Representations & Optimization | 2026 | Bachelor Thesis, High Performance Computing. Automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. |
+| Machine Scheduling: Configuration LP | 2025 - 2026 | Semester Project. Approximation algorithms for machine scheduling, with a PhD candidate and a postdoc. |
+| Higgs Boson Signal Detection | | An end-to-end machine learning pipeline for Higgs boson signal detection. |
+| 3D Graphics Engine | | A 3D graphics engine in C++, used to build a playable 3D Tower of Hanoi game. |
+| Graph Dynamic Programming | | Optimization on graph structures and complexity analysis. |
+| C Threads Library | | A threads library in pure C, with creation, synchronization and scheduling. |
+| 4 points on Sphere | | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
+| Start-Up Outzone | 2023 - now | Co-Founder & Backend Developer. Backend development for the [Outzone](https://outzone.app/) start-up. |
+| Smart Regression | | |
+| Arch linux Rice | | |
+| Recurrence Integration method | | |
+| Collatz Conjecture | | |
+| Tree Access Optimization | | |
+| Digital Scriptorium | | |
+| NLP school project | | |
+| Pac-Man | | |
+| Arkanoid | | |
+| Fibonacci Sphere | | The 3D word cloud on [deshi.ch](https://deshi.ch). |
 
 ## Experience
 
