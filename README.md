@@ -12,30 +12,6 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 
 `Algorithms` `Optimization` `Computer Graphics` `Machine Learning` `Discrete Math` `Systems Programming`
 
-## How I use AI
-
-AI should be used for mechanical things like formatting, boilerplate, and verification. Intellectual and creative work stays with the human.
-
-> The most difficult part is downcasting: you create information. When you upcast it is mechanical.
-
-When you learn coding you can take an existing idea and reproduce it, for example Pac-Man. When you create, you write all the downcasts needed and the creation can be delegated to an LLM, for example my parallelizer.
-
-The distilled question: is the path important or just the product?
-
-```mermaid
-flowchart LR
-    T[task] --> P{path important?}
-    P -- no --> L[LLM]
-    P -- yes --> C{upcast or downcast?}
-    C -- upcast --> A[AI]
-    C -- downcast --> H[human]
-    L --> R[result]
-    A --> R
-    H --> R
-```
-
-Semantic work is a downcast, a composition, so I write it by hand. My thesis paper, for example, is written by hand.
-
 ## Projects
 
 | project | year | |
