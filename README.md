@@ -12,6 +12,18 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 
 `Algorithms` `Optimization` `Computer Graphics` `Machine Learning` `Discrete Math` `Systems Programming`
 
+## Experience
+
+- **2023 - now** · Co-Founder & Backend Developer · Outzone, Lugano
+- **2024 - now** · Peer Tutor (Formal Collaborator) · SUPSI, Lugano
+
+## Education
+
+- **2026 - now** · MSE Computer Science · SUPSI, University of Applied Sciences and Arts of Southern Switzerland, Lugano · Master of Engineering in Computer Science
+- **2022 - 2026** · BSc Computer Science Engineering · SUPSI, Lugano · GPA 5.25 / 6.0, 168 ECTS
+- **2017 - 2022** · Scientific High School Diploma · Liceo Scientifico A. Pacinotti, La Spezia · Final grade 100/100
+- Introduction to Metric Spaces · MIT OpenCourseWare, online · Self-directed study of topology and real analysis
+
 ## Projects
 
 | project | year | |
@@ -25,15 +37,3 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 | 4 points on Sphere | | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
 | Start-Up Outzone | 2023 - now | Co-Founder & Backend Developer. Backend development for the [Outzone](https://outzone.app/) start-up. |
 | Fibonacci Sphere | | The 3D word cloud on [deshi.ch](https://deshi.ch). |
-
-## Experience
-
-- **2023 - now** · Co-Founder & Backend Developer · Outzone, Lugano
-- **2024 - now** · Peer Tutor (Formal Collaborator) · SUPSI, Lugano
-
-## Education
-
-- **2026 - now** · MSE Computer Science · SUPSI, University of Applied Sciences and Arts of Southern Switzerland, Lugano · Master of Engineering in Computer Science
-- **2022 - 2026** · BSc Computer Science Engineering · SUPSI, Lugano · GPA 5.25 / 6.0, 168 ECTS
-- **2017 - 2022** · Scientific High School Diploma · Liceo Scientifico A. Pacinotti, La Spezia · Final grade 100/100
-- Introduction to Metric Spaces · MIT OpenCourseWare, online · Self-directed study of topology and real analysis
