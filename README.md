@@ -40,7 +40,7 @@ Semantic work is a downcast, a composition, so I write it by hand. My thesis pap
 
 | project | year | |
 | --- | --- | --- |
-| Software Representations & Optimization | 2026 | Bachelor Thesis, High Performance Computing. Automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. |
+| Software Representations & Optimization | 2026 | Bachelor Thesis. High performance computing (HPC): automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. |
 | Machine Scheduling: Configuration LP | 2025 - 2026 | Semester Project. Approximation algorithms for machine scheduling, with a PhD candidate and a postdoc. |
 | Higgs Boson Signal Detection | | An end-to-end machine learning pipeline for Higgs boson signal detection. |
 | 3D Graphics Engine | | A 3D graphics engine in C++, used to build a playable 3D Tower of Hanoi game. |
