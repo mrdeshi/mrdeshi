@@ -24,15 +24,6 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 | C Threads Library | | A threads library in pure C, with creation, synchronization and scheduling. |
 | 4 points on Sphere | | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
 | Start-Up Outzone | 2023 - now | Co-Founder & Backend Developer. Backend development for the [Outzone](https://outzone.app/) start-up. |
-| Smart Regression | | |
-| Arch linux Rice | | |
-| Recurrence Integration method | | |
-| Collatz Conjecture | | |
-| Tree Access Optimization | | |
-| Digital Scriptorium | | |
-| NLP school project | | |
-| Pac-Man | | |
-| Arkanoid | | |
 | Fibonacci Sphere | | The 3D word cloud on [deshi.ch](https://deshi.ch). |
 
 ## Experience
