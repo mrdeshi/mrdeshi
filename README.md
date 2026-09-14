@@ -20,7 +20,7 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 ## Education
 
 - **2026 - now** · MSE Computer Science · SUPSI, University of Applied Sciences and Arts of Southern Switzerland, Lugano · Master of Engineering in Computer Science
-- **2022 - 2026** · BSc Computer Science Engineering · SUPSI, Lugano · GPA 5.25 / 6.0, 168 ECTS
+- **2022 - 2026** · BSc Computer Science Engineering · SUPSI, Lugano · GPA 5.27 / 6.0, 180 ECTS
 - **2017 - 2022** · Scientific High School Diploma · Liceo Scientifico A. Pacinotti, La Spezia · Final grade 100/100
 - Introduction to Metric Spaces · MIT OpenCourseWare, online · Self-directed study of topology and real analysis
 
