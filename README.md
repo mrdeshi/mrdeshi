@@ -33,9 +33,13 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 | Software Representations & Optimization | Novel | 2026 | Bachelor Thesis. High performance computing (HPC): automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. |
 | Machine Scheduling: Configuration LP | Novel | 2025 - 2026 | Semester Project. Approximation algorithms for machine scheduling, with a PhD candidate and a postdoc. |
 | Higgs Boson Signal Detection | Handmade |  | An end-to-end machine learning pipeline for Higgs boson signal detection. |
+| Retina Blood Vessels Segmentation | Handmade | 2025 | Segmentation of blood vessels in retina images: a patch-based CNN first, then a U-Net-like fully convolutional network in Keras, with data augmentation and evaluation on test masks. |
 | 3D Graphics Engine | Handmade |  | A 3D graphics engine in C++, used to build a playable 3D Tower of Hanoi game. |
 | Graph Dynamic Programming | Handmade |  | Optimization on graph structures and complexity analysis. |
 | C Threads Library | Handmade |  | A threads library in pure C, with creation, synchronization and scheduling. |
 | 4 points on Sphere | Handmade |  | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
+| Pac-Man | Handmade | 2022 | A Recreation of Pac-Man arcade game in pure Python and Processing IDE, with automatic generation of the maze and different levels of difficulty based on the intelligence of the ghosts. |
+| Arkanoid | Handmade |  | A Recreation of Arkanoid arcade game in pure Python and Processing IDE, with custom power ups and game modes. |
 | Start-Up Outzone | Novel | 2023 - now | Co-Founder & Backend Developer. Backend development for the [Outzone](https://outzone.app/) start-up. |
+| NLP school project | Handmade |  | Natural language processing pipeline of text multi-class classification from data extraction and data cleaning to training and model evaluation. |
 | Fibonacci Sphere |  |  | The 3D word cloud on [deshi.ch](https://deshi.ch). |
