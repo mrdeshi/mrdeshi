@@ -38,6 +38,7 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 | Graph Dynamic Programming | Handmade |  | Optimization on graph structures and complexity analysis. |
 | C Threads Library | Handmade |  | A threads library in pure C, with creation, synchronization and scheduling. |
 | 4 points on Sphere | Handmade |  | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
+| Smart Regression | Handmade | 2024 | Automatic parametric selection of data to remove outliers and create an enhanced regression model. |
 | Pac-Man | Handmade | 2022 | A recreation of Pac-Man arcade game in pure Python and Processing IDE, with automatic generation of the maze and different levels of difficulty based on the intelligence of the ghosts. |
 | Arkanoid | Handmade |  | A recreation of Arkanoid arcade game in pure Python and Processing IDE, with custom power ups and game modes. |
 | Start-Up Outzone | Novel | 2023 - now | Co-Founder & Backend Developer. Backend development for the [Outzone](https://outzone.app/) start-up. |
