@@ -14,8 +14,8 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 
 ## Experience
 
-- **2023 - now** · Co-Founder & Backend Developer · Outzone, Lugano
-- **2024 - now** · Peer Tutor (Formal Collaborator) · SUPSI, Lugano
+- **2023 - now** · Co-Founder & Backend Developer · Outzone, Lugano · Server-side architecture, REST APIs, and data management
+- **2024 - now** · Peer Tutor (Formal Collaborator) · SUPSI, Lugano · Tutoring in CS and Mathematics under collaborator contract
 
 ## Education
 
@@ -30,10 +30,10 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 | --- | --- | --- |
 | Software Representations & Optimization | 2026 | Bachelor Thesis. High performance computing (HPC): automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. |
 | Machine Scheduling: Configuration LP | 2025 - 2026 | Semester Project. Approximation algorithms for machine scheduling, with a PhD candidate and a postdoc. |
-| Higgs Boson Signal Detection | | An end-to-end machine learning pipeline for Higgs boson signal detection. |
-| 3D Graphics Engine | | A 3D graphics engine in C++, used to build a playable 3D Tower of Hanoi game. |
-| Graph Dynamic Programming | | Optimization on graph structures and complexity analysis. |
-| C Threads Library | | A threads library in pure C, with creation, synchronization and scheduling. |
-| 4 points on Sphere | | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
+| Higgs Boson Signal Detection |  | An end-to-end machine learning pipeline for Higgs boson signal detection. |
+| 3D Graphics Engine |  | A 3D graphics engine in C++, used to build a playable 3D Tower of Hanoi game. |
+| Graph Dynamic Programming |  | Optimization on graph structures and complexity analysis. |
+| C Threads Library |  | A threads library in pure C, with creation, synchronization and scheduling. |
+| 4 points on Sphere |  | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
 | Start-Up Outzone | 2023 - now | Co-Founder & Backend Developer. Backend development for the [Outzone](https://outzone.app/) start-up. |
-| Fibonacci Sphere | | The 3D word cloud on [deshi.ch](https://deshi.ch). |
+| Fibonacci Sphere |  | The 3D word cloud on [deshi.ch](https://deshi.ch). |
