@@ -34,7 +34,7 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 | Machine Scheduling: Configuration LP | Novel | 2025 - 2026 | Semester Project. Approximation algorithms for machine scheduling, with a PhD candidate and a postdoc. |
 | Higgs Boson Signal Detection | Handmade |  | An end-to-end machine learning pipeline for Higgs boson signal detection. |
 | Retina Blood Vessels Segmentation | Handmade | 2025 | Segmentation of blood vessels in retina images: a patch-based CNN first, then a U-Net-like fully convolutional network in Keras, with data augmentation and evaluation on test masks. |
-| 3D Graphics Engine | Handmade |  | A 3D graphics engine in C++, used to build a playable 3D Tower of Hanoi game. |
+| 3D Graphics Engine | Handmade |  | A 3D graphics engine in C++ with a stereo mode for VR, used to build a playable 3D Tower of Hanoi game. |
 | Graph Dynamic Programming | Handmade |  | Optimization on graph structures and complexity analysis. |
 | C Threads Library | Handmade |  | A threads library in pure C, with creation, synchronization and scheduling. |
 | 4 points on Sphere | Handmade |  | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
