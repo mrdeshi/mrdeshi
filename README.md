@@ -1,3 +1,5 @@
+<img src="brand/mark.svg" width="96" alt="">
+
 # Filippo De Simoni
 
 a glimpse into my Mathematics & Computer Science
