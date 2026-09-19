@@ -30,7 +30,7 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 
 **Idea.** Novel: Novel work, focus on new ideas not implementation. Path: Done for the path, not for the product: an existing idea I chose to walk through.
 
-**Work.** By hand: Pure hand work. Assisted: AI only for the mechanical parts: formatting, boilerplate, verification.
+**Work.** By hand: Pure hand work. Assisted: I give the specification, the LLM translates it into code.
 
 | project | idea | work | year | |
 | --- | --- | --- | --- | --- |
