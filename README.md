@@ -1,4 +1,7 @@
-<img src="brand/mark.svg" width="96" alt="">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="brand/disc-dark.svg">
+  <img src="brand/disc-light.svg" width="110" alt="">
+</picture>
 
 # Filippo De Simoni
 
