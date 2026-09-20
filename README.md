@@ -19,15 +19,15 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 
 ## Experience
 
-- **2023 - now** · Co-Founder & Backend Developer · Outzone, Lugano · Server-side architecture, REST APIs, and data management
+- **2023 - now** · Co-Founder & Full Stack and DevOps Developer · Outzone, Lugano · Server-side architecture, REST APIs, and data management
 - **2024 - now** · Peer Tutor (Formal Collaborator) · SUPSI, Lugano · Tutoring in CS and Mathematics under collaborator contract
 
 ## Education
 
-- **2026 - now** · MSE Computer Science · SUPSI, University of Applied Sciences and Arts of Southern Switzerland, Lugano · Master of Engineering in Computer Science
+- **2026 - now** · MSE Computer Science · SUPSI, University of Applied Sciences and Arts of Southern Switzerland, Lugano · Master of Science in Engineering in Computer Science
 - **2022 - 2026** · BSc Computer Science Engineering · SUPSI, Lugano · GPA 5.27 / 6.0, 180 ECTS
 - **2017 - 2022** · Scientific High School Diploma · Liceo Scientifico A. Pacinotti, La Spezia · Final grade 100/100
-- Introduction to Metric Spaces · MIT OpenCourseWare, online · Self-directed study of topology and real analysis
+- **Summer 2025** · Introduction to Metric Spaces · MIT OpenCourseWare, online · Self-directed study of topology and real analysis
 
 ## Projects
 
@@ -37,17 +37,17 @@ MSE student in Computer Science, after a BSc in [Computer Science Engineering](h
 
 | project | idea | work | year | |
 | --- | --- | --- | --- | --- |
-| Software Representations & Optimization | Novel | Assisted | 2026 | Bachelor Thesis. High performance computing (HPC): automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. |
-| Machine Scheduling: Configuration LP | Novel | Assisted | 2025 - 2026 | Semester Project. Approximation algorithms for machine scheduling, with a PhD candidate and a postdoc. |
-| Higgs Boson Signal Detection | Path | By hand |  | An end-to-end machine learning pipeline for Higgs boson signal detection. |
+| Software Representations & Optimization | Novel | Assisted | 2026 | High performance computing (HPC): Novel Algorithm for automatic parallelization of C programs. Speedups comparable with ad hoc parallelization, outputs verified bit-identical. |
+| Machine Scheduling: Configuration LP | Novel | Assisted | 2025 - 2026 | Empirical and theoretical approaches for identical machine scheduling conjecture of half-integrality, with a PhD candidate and a postdoc. |
+| Higgs Boson Signal Detection | Path | By hand |  | An end-to-end machine learning pipeline for Higgs boson signal detection following the machine learning course. |
 | Retina Blood Vessels Segmentation | Path | By hand | 2025 | Segmentation of blood vessels in retina images: a patch-based CNN first, then a U-Net-like fully convolutional network in Keras, with data augmentation and evaluation on test masks. |
 | 3D Graphics Engine | Path | By hand |  | A 3D graphics engine in C++ with a stereo mode for VR, used to build a playable 3D Tower of Hanoi game where the discs are moved with a Leap Motion and stylized hands are drawn on screen. |
 | Graph Dynamic Programming | Path | By hand |  | Optimization on graph structures and complexity analysis. |
 | C Threads Library | Path | By hand |  | A threads library in pure C, with creation, synchronization and scheduling. |
-| 4 points on Sphere | Novel | By hand |  | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
+| [4 points on Sphere](https://www.youtube.com/watch?v=OkmNXy7er84) | Novel | By hand |  | Formal proof that the probability of a sphere's center lying inside a tetrahedron formed by 4 random surface points is 1/8. |
 | Smart Regression | Novel | By hand | 2024 | Automatic parametric selection of data to remove outliers and create an enhanced regression model. |
+| [Arch linux Rice](https://github.com/mrdeshi/dotfiles) | Path | By hand | 2022-now | Customized Arch Linux + Hyprland configuration dotfiles optimized to study and work with proficiency. |
 | Pac-Man | Path | By hand | 2022 | A recreation of Pac-Man arcade game in pure Python and Processing IDE, with automatic generation of the maze and different levels of difficulty based on the intelligence of the ghosts. |
 | Arkanoid | Path | By hand |  | A recreation of Arkanoid arcade game in pure Python and Processing IDE, with custom power ups and game modes. |
-| Start-Up Outzone | Novel | Assisted | 2023 - now | Co-Founder & Backend Developer. Backend development for the [Outzone](https://outzone.app/) start-up. |
+| [Start-Up Outzone](https://outzone.app/) | Novel | Assisted | 2023 - now | Backend development for the Outzone start-up. |
 | NLP school project | Path | By hand |  | Natural language processing pipeline of text multi-class classification from data extraction and data cleaning to training and model evaluation. |
-| Fibonacci Sphere |  |  |  | The 3D word cloud on [deshi.ch](https://deshi.ch). |
